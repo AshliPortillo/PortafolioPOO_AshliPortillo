@@ -1,10 +1,12 @@
 # Actividad de evaluación C2 - Consumo energético servidores Unidad 3 – Métodos #
 
 - Objetivo del proyecto
+- 
 Desarrollar un sistema web en PHP orientado a objetos que permita calcular el consumo energético de un data center mediante integración numérica usando la regla del trapecio.
 El sistema busca simular diferentes escenarios de carga del servidor (IDLE, AVERAGE y STRESS), calcular la energía consumida en Joules, convertirla a kWh y analizar la relación entre precisión matemática y costo computacional.
 
 - Problema que resuelve
+  
 En un entorno de computación, especialmente en centros de datos, es importante estimar el consumo energético de los servidores para optimizar recursos y reducir costos.
 Este proyecto resuelve el problema de calcular de manera aproximada la energía consumida durante un intervalo de tiempo cuando la potencia varía dinámicamente.
 
@@ -32,13 +34,15 @@ Uso de try-catch para validación de datos y control de errores.
 Validación de datos
 
 - Se valida que:
-
+- 
 El tiempo inicial sea menor al final
 La precisión sea positiva
 Integración numérica
 Aplicación de la regla del trapecio para aproximar una integral definida.
 Costo computacional
+
 - Relación entre:
+  
 Precisión
 Número de iteraciones
 Tiempo de ejecución
