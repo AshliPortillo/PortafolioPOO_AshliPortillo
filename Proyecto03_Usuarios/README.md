@@ -1,4 +1,4 @@
-**Proyecto Unidad 3 - Registro de usuarios**
+# Proyecto Unidad 3 - Registro de usuarios #
 - Objetivo:
   
 Este proyecto resuelve la necesidad de gestionar diferentes tipos de usuarios dentro de una plataforma digital.
