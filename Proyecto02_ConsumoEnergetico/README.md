@@ -34,7 +34,7 @@ Uso de try-catch para validación de datos y control de errores.
 Validación de datos
 
 - Se valida que:
-- 
+
 El tiempo inicial sea menor al final
 La precisión sea positiva
 Integración numérica
