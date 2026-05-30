@@ -1,4 +1,4 @@
-#Actividad de evaluación C2 - Consumo energético servidores Unidad 3 – Métodos#
+# Actividad de evaluación C2 - Consumo energético servidores Unidad 3 – Métodos #
 
 - Objetivo del proyecto
 Desarrollar un sistema web en PHP orientado a objetos que permita calcular el consumo energético de un data center mediante integración numérica usando la regla del trapecio.
