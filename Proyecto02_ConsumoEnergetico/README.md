@@ -73,4 +73,5 @@ Tabla comparativa
 Posibles mensajes de error
 
 - Reflexión personal
+  
 Este proyecto me ayudó a entender mejor cómo aplicar la programación y las matemáticas juntas para resolver problemas reales. También aprendí más sobre validaciones, manejo de errores y la importancia de organizar bien el código.
