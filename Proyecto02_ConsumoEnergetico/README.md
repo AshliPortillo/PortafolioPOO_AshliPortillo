@@ -35,11 +35,11 @@ Validación de datos
 
 - Se valida que:
 
-El tiempo inicial sea menor al final
-La precisión sea positiva
-Integración numérica
+El tiempo inicial sea menor al final,
+La precisión sea positiva, 
+Integración numérica, 
 Aplicación de la regla del trapecio para aproximar una integral definida.
-Costo computacional
+, Costo computacional
 
 - Relación entre:
   
