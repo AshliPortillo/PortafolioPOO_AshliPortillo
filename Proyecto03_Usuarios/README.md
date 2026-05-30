@@ -19,10 +19,12 @@ Se crearon clases para representar cada tipo de usuario.
 2- Herencia
 Las clases Admin, Cliente e Invitado heredan de la clase base Usuario.
 3- Polimorfismo
+  
 Se recorrió una lista de usuarios ejecutando el mismo método, pero cada clase respondió de manera distinta.
 4- Constructores (__init__)
 Se inicializaron atributos al crear objetos.
 5- Uso de super()
+
 Permitió reutilizar atributos y métodos de la clase base.
 6- Sobreescritura de métodos
 Cada tipo de usuario redefinió su método acceso_sistema().
