@@ -48,7 +48,12 @@ CSS externo
 Separación entre lógica y presentación visual.
 
 - Capturas de pantalla
-(Ya en el archivo llamado "capturas")
+<img width="775" height="633" alt="Captura de pantalla 2026-05-28 230136" src="https://github.com/user-attachments/assets/aed72f4d-87a6-430a-9fe2-494f7d8b93f4" />
+<img width="547" height="548" alt="Captura de pantalla 2026-05-29 155457" src="https://github.com/user-attachments/assets/e47c3c2a-95c7-4901-9fb3-0d4b21c66c79" />
+<img width="631" height="636" alt="Captura de pantalla 2026-05-29 155505" src="https://github.com/user-attachments/assets/f48ed189-d828-45b1-afa7-1d9b6700b6aa" />
+<img width="672" height="545" alt="Captura de pantalla 2026-05-29 155956" src="https://github.com/user-attachments/assets/c7bad22f-40f7-4ff4-a845-66dcff6287b4" />
+<img width="1340" height="697" alt="Consumo energetico1" src="https://github.com/user-attachments/assets/77944459-43c8-4862-a7b9-2824335db4a7" />
+<img width="1329" height="699" alt="Consumoenergetico2ejecucion" src="https://github.com/user-attachments/assets/0ff4784b-d9a0-49a3-a5b0-48e915c34e2e" />
 
 - Instrucciones de ejecución
 1. Copiar la carpeta del proyecto dentro de:
