@@ -25,7 +25,7 @@ Se busca representar información estructurada mediante clases, permitiendo orga
 -Clase predefinida DateTime
 - Organización modular de archivos
 
-- Explicación del Funcionamiento
+**Explicación del Funcionamiento**
 
 El proyecto consiste en la creación de dos clases:
 Clase Paquete
@@ -46,14 +46,14 @@ rangoMaximo
 
 En el archivo index.php se prueban ambas clases creando objetos, asignando valores y verificando el acceso restringido a propiedades privadas.
 
-- Capturas:
+**Capturas:**
 <img width="330" height="227" alt="image" src="https://github.com/user-attachments/assets/749faf15-c153-4634-96cc-ef845677e74b" />
 <img width="669" height="618" alt="image" src="https://github.com/user-attachments/assets/b5c17f0b-575e-481e-b545-7d00b2ed58fa" />
 <img width="409" height="257" alt="image" src="https://github.com/user-attachments/assets/62b6b950-be08-480f-b844-aa133463f74e" />
 <img width="424" height="277" alt="image" src="https://github.com/user-attachments/assets/26816544-0227-4cf5-9a88-7f340dca575b" />
 
 
-- Instrucciones de Ejecución
+**Instrucciones de Ejecución**
 Copiar la carpeta del proyecto en htdocs
 Abrir XAMPP
 Iniciar Apache
@@ -61,6 +61,6 @@ Abrir el navegador
 Acceder a:
 localhost/logistica.php
 
-- Reflexión Personal
+- **Reflexión Personal**
 
 Aprendí a definir clases con propiedades tipadas y a organizar proyectos orientados a objetos en PHP. Agregaría métodos para manipular y validar la información de los objetos, haciendo el sistema más funcional y completo.
